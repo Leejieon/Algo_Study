@@ -61,7 +61,7 @@ EX : 11053_가장_긴_증가하는_부분_수열
 
 ### **코드 설명 방법**
 
-`[template.md](https://github.com/doheez/Algorithm-Study/blob/59b14034ccb576d7a2a7935d5859da0f38cfeb3d/template.md)`를 참고하여 `README.md`를 작성하고 문제 풀이 코드와 동일한 폴더에 올린다.
+[template.md](https://github.com/doheez/Algorithm-Study/blob/59b14034ccb576d7a2a7935d5859da0f38cfeb3d/template.md)를 참고하여 `README.md`를 작성하고 문제 풀이 코드와 동일한 폴더에 올린다.
 
 ### **코드 리뷰**
 
