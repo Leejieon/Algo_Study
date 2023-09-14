@@ -12,7 +12,7 @@ private val br = BufferedReader(InputStreamReader(System.`in`))
 private var words: MutableList<String> = mutableListOf()
 private var result = 0
 private var alpha: HashSet<Char> = hashSetOf()
-private var total : HashSet<Char> = hashSetOf()
+private var total: HashSet<Char> = hashSetOf()
 fun main() {
     //alpha = Array(26, { false })
     initAlpha()
@@ -23,6 +23,7 @@ fun main() {
         println(result)
     }
 }
+
 fun input(): Boolean {
     val st = StringTokenizer(readLine())
     n = st.nextToken().toInt()
@@ -52,19 +53,19 @@ fun initAlpha() {
         for (char in 'a'..'z') {
             add(char)
         }
+        removeAll(alpha)
     }
 }
+
 fun combination(cnt: Int, limit: Int, loc: Int) {
     if (cnt == limit) {
         solution()
         return
     }
     for (i in loc until total.size) {
-        if (!alpha.contains(total.elementAt(i))) {
             alpha.add(total.elementAt(i))
             combination(cnt + 1, limit, i + 1)
             alpha.remove(total.elementAt(i))
-        }
     }
 }
 
@@ -72,13 +73,13 @@ fun solution() {
     var answer = 0
     for (word in words) {
         var isValid = true
-        for(char in word){
-            if(!alpha.contains(char)){
-                isValid=false
+        for (char in word) {
+            if (!alpha.contains(char)) {
+                isValid = false
                 break
             }
         }
-        if(isValid)
+        if (isValid)
             answer++
     }
     result = max(result, answer)
