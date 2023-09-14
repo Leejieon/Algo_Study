@@ -18,9 +18,9 @@
 <br>
   
 ||날짜|알고리즘|출처|문제1|문제2|문제3|문제4|
-|--|--|--|--|--|--|--|--|
-|**1주차**|09.11. ~ 09.14.|백트래킹(Backtracking)|백준, 프로그래머스 |[가르침](https://www.acmicpc.net/problem/1062)|[좋은수열](https://www.acmicpc.net/problem/2661)|[연산자 끼워넣기(3)](https://www.acmicpc.net/problem/15659)|[교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|
-|**2주차**|09.14. ~ 09.21.|그래프(Graph)|백준, 프로그래머스 |[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[모양 만들기](https://www.acmicpc.net/problem/16932)|[일요일 아침의 데이트](https://www.acmicpc.net/problem/1445)||
+|--|--|--|----|--|--|--|--|
+|**1주차**|09.11. ~ 09.14|백트래킹(Backtracking)|백준,프로그래머스 |[가르침](https://www.acmicpc.net/problem/1062)|[좋은수열](https://www.acmicpc.net/problem/2661)|[연산자 끼워넣기(3)](https://www.acmicpc.net/problem/15659)|[교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|
+|**2주차**|09.14. ~ 09.21|그래프(Graph)|백준,프로그래머스 |[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[모양 만들기](https://www.acmicpc.net/problem/16932)|[일요일 아침의 데이트](https://www.acmicpc.net/problem/1445)|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|
 
 </details>
 <br>    
