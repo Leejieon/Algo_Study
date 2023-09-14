@@ -1,7 +1,5 @@
-package Level_2.교점에_별_만들기
+package Level_2.교점에_별_만들기.LJH
 
-import java.io.*
-import java.util.*
 import kotlin.math.*
 
 class Solution {
