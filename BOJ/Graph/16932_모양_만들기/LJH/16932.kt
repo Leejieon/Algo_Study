@@ -1,4 +1,4 @@
-package Graph.`16932_모양_만들기`
+package Graph.`16932_모양_만들기`.LJH
 
 import java.io.BufferedReader
 import java.io.InputStreamReader

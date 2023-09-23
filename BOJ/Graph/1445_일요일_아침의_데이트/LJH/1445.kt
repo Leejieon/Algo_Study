@@ -1,4 +1,4 @@
-package Graph.`1445_일요일_아침의_데이트`
+package Graph.`1445_일요일_아침의_데이트`.LJH
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
