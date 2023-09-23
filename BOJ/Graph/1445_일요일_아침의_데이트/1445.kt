@@ -17,9 +17,9 @@ class `1445` {
             return "$x $y $nearG $meetG"
         }
     }
-    val pq = PriorityQueue<Walk>(compareBy({+it.meetG}, {+it.nearG}) ) //만난 지점을 최소화하기
-    lateinit var s : Pair<Int,Int>
-    lateinit var f : Pair<Int,Int>
+    val pq = PriorityQueue<Walk>(compareBy({+it.meetG}, {+it.nearG}) ) //쓰레기를 밟은 갯수 > 쓰레기 주변을 지나간 개수
+    private lateinit var s : Pair<Int,Int>
+    private lateinit var f : Pair<Int,Int>
 
     init {
         input()
@@ -59,30 +59,30 @@ class `1445` {
                 val moveY = now.y + y[dir]
                 if (moveX !in graph.indices || moveY !in graph[0].indices)
                     continue
-                if(moveX==f.first && moveY ==f.second) { //f 주변은 계산 x
+                if(moveX==f.first && moveY ==f.second) { //도착지점일 경우 만난 쓰레기와 인접한 쓰레기를 출력
                     print("$goal $near")
                     return
                 }
-                if(visit[moveX][moveY])
+                if(visit[moveX][moveY]) //방문처리
                     continue
-                if(graph[moveX][moveY]=='.')
+                if(graph[moveX][moveY]=='.') //빈칸이라면
                     near += checkGarbage(moveX,moveY)
-                if (graph[moveX][moveY] == 'g') goal++
+                if (graph[moveX][moveY] == 'g') goal++ //쓰레기라면
                 pq.add(Walk(moveX,moveY,near,goal))
                 visit[moveX][moveY]=true
             }
         }
     }
-    private fun checkGarbage(row : Int, col : Int) : Int{
+    private fun checkGarbage(row : Int, col : Int) : Int{ // 주변 쓰레기의 여부를 검사하는 함수.
         for(dir in 0 until 4){
             val moveX = row+x[dir]
             val moveY = col+y[dir]
             if (moveX !in graph.indices || moveY !in graph[0].indices)
                 continue
-            if(graph[moveX][moveY]=='g')
+            if(graph[moveX][moveY]=='g') // 있다면 1을 리턴
                 return 1
         }
-        return 0
+        return 0 //없다면 0을 리턴
     }
 }
 
