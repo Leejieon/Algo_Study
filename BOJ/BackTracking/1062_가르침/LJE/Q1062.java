@@ -1,14 +1,12 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.StringTokenizer;
+import java.util.*;
 
 class Q1062 {
     public static int N, K, check, result;
     public static String[] words;
-    public static List<Integer> learnedList = new ArrayList<>();
+    public static Set<Integer> learnedList = new HashSet<>();
     public static final int START_INDEX = 4;
 
     public static void main(String[] args) throws IOException {
