@@ -21,6 +21,7 @@
 |--|--|--|----|--|--|--|--|
 |**1주차**|09.11. ~ 09.14|백트래킹(Backtracking)|백준,프로그래머스 |[가르침](https://www.acmicpc.net/problem/1062)|[좋은수열](https://www.acmicpc.net/problem/2661)|[연산자 끼워넣기(3)](https://www.acmicpc.net/problem/15659)|[교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|
 |**2주차**|09.14. ~ 09.21|그래프(Graph)|백준,프로그래머스 |[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[모양 만들기](https://www.acmicpc.net/problem/16932)|[일요일 아침의 데이트](https://www.acmicpc.net/problem/1445)|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|
+|**3주차**|09.25. ~ 10.05|다이나믹 프로그래밍(DP)|백준,프로그래머스 |[받아쓰기](https://www.acmicpc.net/problem/20542)|[양팔저울](https://www.acmicpc.net/problem/2629)|[구간 나누기](https://www.acmicpc.net/problem/2228)|[N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)|
 
 </details>
 <br>    
@@ -58,11 +59,6 @@ EX : 11053_가장_긴_증가하는_부분_수열
 - 기존 코드 수정 시: `Modify [문제 번호] [문제 제목]`
     
     `Modify 1003 피보나치 함수`
-    
-
-### **코드 설명 방법**
-
-[template.md](https://github.com/doheez/Algorithm-Study/blob/59b14034ccb576d7a2a7935d5859da0f38cfeb3d/template.md)를 참고하여 `README.md`를 작성하고 문제 풀이 코드와 동일한 폴더에 올린다.
 
 ### **코드 리뷰**
 
