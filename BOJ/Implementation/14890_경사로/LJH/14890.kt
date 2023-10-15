@@ -86,9 +86,6 @@ class `14890` {
 
 fun main() {
     val solution = `14890`()
-    val list= mutableListOf<String>()
-    var answer: Array<String> = arrayOf<String>()
-    list.add("a")
-    answer=list.toTypedArray()
+    
 
 }
