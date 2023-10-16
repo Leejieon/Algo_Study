@@ -22,7 +22,7 @@ class `16398` {
         parent = Array(n + 1) { it }
         for (i in 0 until n) {
             val line = br.readLine().split(" ")
-            for (j in 0 until n) {
+            for (j in i+1 until n) {
                 pq.add(Node(i, j, line[j].toInt()))
             }
         }
