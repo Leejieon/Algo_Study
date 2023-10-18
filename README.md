@@ -24,6 +24,7 @@
 |**3주차**|09.25 ~ 10.05|다이나믹 프로그래밍(DP)|백준,프로그래머스 |[받아쓰기](https://www.acmicpc.net/problem/20542)|[양팔저울](https://www.acmicpc.net/problem/2629)|[구간 나누기](https://www.acmicpc.net/problem/2228)|[N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)|
 |**4주차**|10.05 ~ 10.12|구현(Implementation)|백준,프로그래머스 |[모노미노도미노2](https://www.acmicpc.net/problem/20061)|[경사로](https://www.acmicpc.net/problem/14890)|[큐빙](https://www.acmicpc.net/problem/5373)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|
 |**5주차**|10.12 ~ 10.19|최소 스패닝 트리(MST)|백준,프로그래머스 |[최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [연애 혁명](https://www.acmicpc.net/problem/27498) | [행성 연결](https://www.acmicpc.net/problem/16398)|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |
+|**6주차**|10.18 ~ 10.26|랜던 문제|프로그래머스|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |[N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) |[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |
 
 </details>
 <br>    
