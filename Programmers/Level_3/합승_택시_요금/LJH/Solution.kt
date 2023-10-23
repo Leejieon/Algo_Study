@@ -13,10 +13,8 @@ class Solution {
         val distA = dijkstra(a)
         val distB = dijkstra(b)
         for (i in 1 until n + 1) {
-            if (distS[i] == INF || distA[i] == INF || distB[i] == INF) continue
             answer = min(answer, distS[i] + distA[i] + distB[i])
         }
-
         return answer
     }
 
