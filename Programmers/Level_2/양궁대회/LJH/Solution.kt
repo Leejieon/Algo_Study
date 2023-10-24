@@ -1,3 +1,5 @@
+package LJH
+
 class Solution {
     var score = 0
     lateinit var result: IntArray
