@@ -8,14 +8,13 @@ class Solution {
         var answer = 0
         limit = user_id.size
         visit=Array(limit){false}
-        makeCombination(0,user_id,banned_id)
+        makeCombination(user_id,banned_id)
         return idSet.size
     }
 
-    fun makeCombination(depth : Int,user_id : Array<String>, banned_id : Array<String>){
+    fun makeCombination(user_id : Array<String>, banned_id : Array<String>){
         if(candidate.size == banned_id.size){
             if(matchingId(user_id,banned_id)) idSet.add(candidate.toMutableSet())
-            else candidate.clear()
             return
         }
 
@@ -24,7 +23,7 @@ class Solution {
                 continue
             candidate.add(user_id[i])
             visit[i]=true
-            makeCombination(depth+1,user_id,banned_id)
+            makeCombination(user_id,banned_id)
             visit[i]=false
             candidate.remove(user_id[i])
 
