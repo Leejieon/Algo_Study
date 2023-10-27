@@ -25,6 +25,7 @@
 |**4주차**|10.05 ~ 10.12|구현(Implementation)|백준,프로그래머스 |[모노미노도미노2](https://www.acmicpc.net/problem/20061)|[경사로](https://www.acmicpc.net/problem/14890)|[큐빙](https://www.acmicpc.net/problem/5373)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|
 |**5주차**|10.12 ~ 10.19|최소 스패닝 트리(MST)|백준,프로그래머스 |[최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [연애 혁명](https://www.acmicpc.net/problem/27498) | [행성 연결](https://www.acmicpc.net/problem/16398)|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |
 |**6주차**|10.18 ~ 10.26|랜덤 문제|프로그래머스|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |[N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) |[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |
+|**7주차**|10.27 ~ 11.02|랜덤 문제|프로그래머스|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
 
 </details>
 <br>    
