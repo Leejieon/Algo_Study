@@ -26,6 +26,8 @@
 |**5주차**|10.12 ~ 10.19|최소 스패닝 트리(MST)|백준,프로그래머스 |[최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [연애 혁명](https://www.acmicpc.net/problem/27498) | [행성 연결](https://www.acmicpc.net/problem/16398)|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |
 |**6주차**|10.18 ~ 10.26|랜덤 문제|프로그래머스|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |[N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) |[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |
 |**7주차**|10.27 ~ 11.02|랜덤 문제|프로그래머스|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
+|**8주차**|11.02 ~ 11.09|두 포인터(Two Pointer)|백준, 프로그래머스|[세 용액](https://www.acmicpc.net/problem/2473) |[같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |[꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181) |[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |
+
 
 </details>
 <br>    
