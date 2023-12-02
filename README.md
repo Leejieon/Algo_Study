@@ -28,7 +28,7 @@
 |**7주차**|10.27 ~ 11.02|랜덤 문제|프로그래머스|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
 |**8주차**|11.02 ~ 11.09|두 포인터(Two Pointer)|백준, 프로그래머스|[세 용액](https://www.acmicpc.net/problem/2473) |[같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |[꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181) |[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |
 |**9주차**|11.23 ~ 11.30|랜덤 문제|백준,프로그래머스|[크리스마스 트리](https://www.acmicpc.net/problem/1234) |[두 배열의 합](https://www.acmicpc.net/problem/2143) |[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) |[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
-
+|**10주차**|11.30 ~ 12.07|랜덤 문제|백준, 프로그래머스| [저울](https://www.acmicpc.net/problem/2437) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) |
 </details>
 <br>    
 
