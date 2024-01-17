@@ -27,8 +27,18 @@
 |**6주차**|10.18 ~ 10.26|랜덤 문제|프로그래머스|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |[N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) |[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |
 |**7주차**|10.27 ~ 11.02|랜덤 문제|프로그래머스|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
 |**8주차**|11.02 ~ 11.09|두 포인터(Two Pointer)|백준, 프로그래머스|[세 용액](https://www.acmicpc.net/problem/2473) |[같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |[꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181) |[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |
+|**9주차**|11.23 ~ 11.30|랜덤 문제|백준,프로그래머스|[크리스마스 트리](https://www.acmicpc.net/problem/1234) |[두 배열의 합](https://www.acmicpc.net/problem/2143) |[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) |[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
+|**10주차**|11.30 ~ 12.07|랜덤 문제|백준, 프로그래머스| [저울](https://www.acmicpc.net/problem/2437) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) |
+</details>
+<br>    
 
+<details>
+<summary> 2024 알고리즘 </summary>
+<br>
 
+||날짜|알고리즘|출처|문제1| 문제2                                        |문제3| 문제4                                            |
+|--|--|--|----|--|--------------------------------------------|--|------------------------------------------------|
+|**1주차**| 01.17 ~ 01.24 | 삼성A형 기출문제 | 백준  | [파이프 옮기기](https://www.acmicpc.net/problem/17070) | [⚾](https://www.acmicpc.net/problem/17281) | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | [배열 돌리기](https://www.acmicpc.net/problem/17406)|
 </details>
 <br>    
 
