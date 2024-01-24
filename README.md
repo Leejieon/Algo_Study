@@ -39,6 +39,7 @@
 ||날짜|알고리즘|출처|문제1| 문제2                                        |문제3| 문제4                                            |
 |--|--|--|----|--|--------------------------------------------|--|------------------------------------------------|
 |**1주차**| 01.17 ~ 01.24 | 삼성A형 기출문제 | 백준  | [파이프 옮기기](https://www.acmicpc.net/problem/17070) | [⚾](https://www.acmicpc.net/problem/17281) | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | [배열 돌리기](https://www.acmicpc.net/problem/17406)|
+|**2주차**| 01.24 ~ 01.31 | 다이나믹 프로그래밍(DP) | 백준  | [보석 도둑](https://www.acmicpc.net/problem/1202) | [DDR](https://www.acmicpc.net/problem/2342) | [줄 세우기](https://www.acmicpc.net/problem/7570) | [성냥개비](https://www.acmicpc.net/problem/3687) |
 </details>
 <br>    
 
