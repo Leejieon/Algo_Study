@@ -41,6 +41,7 @@
 |**1주차**| 01.17 ~ 01.24 | 삼성A형 기출문제 | 백준  | [파이프 옮기기](https://www.acmicpc.net/problem/17070) | [⚾](https://www.acmicpc.net/problem/17281) | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | [배열 돌리기](https://www.acmicpc.net/problem/17406)|
 |**2주차**| 01.24 ~ 01.31 | 다이나믹 프로그래밍(DP) | 백준  | [보석 도둑](https://www.acmicpc.net/problem/1202) | [DDR](https://www.acmicpc.net/problem/2342) | [줄 세우기](https://www.acmicpc.net/problem/7570) | [성냥개비](https://www.acmicpc.net/problem/3687) |
 |**3주차**| 01.31 ~ 02.07 | solved.ac class 5 | 백준  | [할로윈의 양아치](https://www.acmicpc.net/problem/20303) | [별자리 만들기](https://www.acmicpc.net/problem/4386) | [팰린드롬 분할](https://www.acmicpc.net/problem/1509) | [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946) |
+|**4, 5주차**| 02.07 ~ 02.21 | solved.ac class 5 | 백준  | [외판원 순회](https://www.acmicpc.net/problem/2098) | [2048(Easy)](https://www.acmicpc.net/problem/12100) | [낚시왕](https://www.acmicpc.net/problem/17143) | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) |
 </details>
 <br>    
 
