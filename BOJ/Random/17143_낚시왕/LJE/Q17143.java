@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 
 class Q17143 {
     static int R, C, M;
-    static Shark[][] sea;git
+    static Shark[][] sea;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
