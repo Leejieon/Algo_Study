@@ -17,7 +17,7 @@
 <summary>1주차 ~ 10주차</summary>
 <br>
   
-||날짜|알고리즘|출처|문제1|문제2|문제3|문제4|
+||날짜|분류|출처|문제1|문제2|문제3|문제4|
 |--|--|--|----|--|--|--|--|
 |**1주차**|09.11 ~ 09.14|백트래킹(Backtracking)|백준,프로그래머스 |[가르침](https://www.acmicpc.net/problem/1062)|[좋은수열](https://www.acmicpc.net/problem/2661)|[연산자 끼워넣기(3)](https://www.acmicpc.net/problem/15659)|[교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|
 |**2주차**|09.14 ~ 09.21|그래프(Graph)|백준,프로그래머스 |[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[모양 만들기](https://www.acmicpc.net/problem/16932)|[일요일 아침의 데이트](https://www.acmicpc.net/problem/1445)|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|
@@ -36,7 +36,7 @@
 <summary> 2024 알고리즘 </summary>
 <br>
 
-||날짜|알고리즘|출처|문제1| 문제2                                        |문제3| 문제4                                            |
+||날짜|분류|출처|문제1| 문제2                                        |문제3| 문제4                                            |
 |--|--|--|----|--|--------------------------------------------|--|------------------------------------------------|
 |**1주차**| 01.17 ~ 01.24 | 삼성A형 기출문제 | 백준  | [파이프 옮기기](https://www.acmicpc.net/problem/17070) | [⚾](https://www.acmicpc.net/problem/17281) | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | [배열 돌리기](https://www.acmicpc.net/problem/17406)|
 |**2주차**| 01.24 ~ 01.31 | 다이나믹 프로그래밍(DP) | 백준  | [보석 도둑](https://www.acmicpc.net/problem/1202) | [DDR](https://www.acmicpc.net/problem/2342) | [줄 세우기](https://www.acmicpc.net/problem/7570) | [성냥개비](https://www.acmicpc.net/problem/3687) |
@@ -44,6 +44,8 @@
 |**4, 5주차**| 02.07 ~ 02.21 | solved.ac class 5 | 백준  | [외판원 순회](https://www.acmicpc.net/problem/2098) | [2048(Easy)](https://www.acmicpc.net/problem/12100) | [낚시왕](https://www.acmicpc.net/problem/17143) | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) |
 |**6주차**| 02.21 ~ 02.28 | solved.ac class 5+ | 백준  | [본대 산책2](https://www.acmicpc.net/problem/12850) | [선분 교차 2](https://www.acmicpc.net/problem/17387) | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | [계단 수](https://www.acmicpc.net/problem/1562) |
 |**7주차**| 03.06 ~ 03.13 | 랜덤 문제 | 백준, 프로그래머스 | [카드 게임](https://www.acmicpc.net/problem/16566) | [부분수열의 합 2](https://www.acmicpc.net/problem/1208) | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |
+|**8주차**| 03.13 ~ 03.20 | 2024 KAKAO WINTER INTERNSHIP | 프로그래머스 | [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) | [n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) | [산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) |
+
 
 </details>
 <br>    
