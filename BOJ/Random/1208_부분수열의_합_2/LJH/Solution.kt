@@ -11,7 +11,7 @@ class Solution {
     private val rightSum = hashMapOf<Long, Long>()
 
     init {
-        input()
+        input() // 1 2 3 4 5
         divideSet()
         merge()
         if (s == 0)
@@ -42,7 +42,7 @@ class Solution {
 
     private fun merge() {
         val leftSumList = leftSum.keys.toList().sorted()
-        val rightSumList = rightSum.keys.toList().sorted()
+        val rightSumList = rightSum.keys.toList().sorted() //
         var left = 0
         var right = rightSumList.size - 1
         while (left < leftSumList.size && right >= 0) {
