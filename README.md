@@ -45,6 +45,7 @@
 |**6주차**| 02.21 ~ 02.28 | solved.ac class 5+ | 백준  | [본대 산책2](https://www.acmicpc.net/problem/12850) | [선분 교차 2](https://www.acmicpc.net/problem/17387) | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | [계단 수](https://www.acmicpc.net/problem/1562) |
 |**7주차**| 03.06 ~ 03.13 | 랜덤 문제 | 백준, 프로그래머스 | [카드 게임](https://www.acmicpc.net/problem/16566) | [부분수열의 합 2](https://www.acmicpc.net/problem/1208) | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |
 |**8주차**| 03.13 ~ 03.20 | 2024 KAKAO WINTER INTERNSHIP | 프로그래머스 | [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) | [n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) | [산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) |
+|**9주차**| 04.03 ~ 04.11 | 다이나믹 프로그래밍(DP) | 백준 | [색상환](https://www.acmicpc.net/problem/2482) | [그림 교환](https://www.acmicpc.net/problem/1029) | [파일 합치기](https://www.acmicpc.net/problem/11066) | [소형기관차](https://www.acmicpc.net/problem/2616) |
 
 
 </details>
