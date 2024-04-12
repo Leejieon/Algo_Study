@@ -46,6 +46,8 @@
 |**7주차**| 03.06 ~ 03.13 | 랜덤 문제 | 백준, 프로그래머스 | [카드 게임](https://www.acmicpc.net/problem/16566) | [부분수열의 합 2](https://www.acmicpc.net/problem/1208) | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |
 |**8주차**| 03.13 ~ 03.20 | 2024 KAKAO WINTER INTERNSHIP | 프로그래머스 | [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) | [n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) | [산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) |
 |**9주차**| 04.03 ~ 04.11 | 다이나믹 프로그래밍(DP) | 백준 | [색상환](https://www.acmicpc.net/problem/2482) | [그림 교환](https://www.acmicpc.net/problem/1029) | [파일 합치기](https://www.acmicpc.net/problem/11066) | [소형기관차](https://www.acmicpc.net/problem/2616) |
+|**10주차**| 04.11 ~ 04.17 | 이분 탐색(Binary Search) | 백준 | [반도체 설계](https://www.acmicpc.net/problem/2352) | [공유기 설치](https://www.acmicpc.net/problem/2110) | [K번째 수](https://www.acmicpc.net/problem/1300) | [냅색문제](https://www.acmicpc.net/problem/1450) |
+
 
 
 </details>
